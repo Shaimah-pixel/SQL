@@ -1,1 +1,3 @@
 # SQL
+
+Clause and Joins
